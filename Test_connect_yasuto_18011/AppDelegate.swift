@@ -3,7 +3,8 @@
 //  Test_connect_yasuto_18011
 //
 //  Created by AnzaiYasuto al18011 on 2022/06/29.
-//  test commit 
+//  test commit
+//  test commit al18011@~
 
 import UIKit
 
